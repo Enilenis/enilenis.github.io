@@ -1,6 +1,9 @@
 markdown: kramdown
 theme: minima
 
+title: ""
+name: ""
+
 show_excerpts: false
 paginate: false
 
